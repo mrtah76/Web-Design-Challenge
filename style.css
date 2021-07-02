@@ -1,0 +1,49 @@
+.box {
+    min-height: 50px;
+    padding: 5px;
+    margin: 5px;
+    font-weight: 800;
+    color: #fff;
+  }
+  
+  .skyblue {
+    background: deepskyblue;
+  }
+  
+  .purple {
+    background: rebeccapurple;
+  }
+  
+  .red {
+    background: indianred;
+  }
+
+  .aqua {
+    background:  #4aaaa5;
+  }
+
+  .green {
+      background: greenyellow;
+  }
+
+  .gray {
+    color: #708090
+  }
+
+  .right {
+    nav-right: right ;
+  }
+
+  .left {
+    nav-left: initial;
+  }
+
+  .font-lg {
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+  
+  }
+
+  .font-fam {
+    font-family: 'Times New Roman', Times, serif;
+  }
